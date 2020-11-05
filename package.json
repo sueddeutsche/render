@@ -1,6 +1,6 @@
 {
   "name": "@technik-sde/render",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "replaces variables within a string",
   "main": "dist/render.js",
   "types": "dist/index.d.ts",
