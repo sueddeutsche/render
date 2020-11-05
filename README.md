@@ -7,7 +7,7 @@
 
 ## Example
 
-```
+```ts
 import render from "@technik-sde/render";
 
 const message = render("Unknown error {{code}} when requesting article '{{articleId}}'", {
